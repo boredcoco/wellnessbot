@@ -67,4 +67,4 @@ async def on_message(message):
        await message.channel.send(random.choice(randomHappyResponses))
     
 keep_alive()
-client.run('ODgzNTE4OTA1MDU2OTExNDAw.YTLHGQ.yzgZX4vlHg4nkzdnXuCmAj8OBFs')
+client.run('PASTE TOKEN HERE')
