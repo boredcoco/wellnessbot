@@ -4,7 +4,8 @@ this bot helps you to keep track of your homework and sends you encouraging mess
 what you need
 1. repltit
 2. discord (because it is a discord bot)
-3. uptimerobot (to make the bot run continuously)
+3. a discord server to host your bot
+4. uptimerobot (to make the bot run continuously)
 
 what to do
 1. create a discord bot
