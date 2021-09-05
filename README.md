@@ -5,7 +5,8 @@ what you need
 1. repltit
 2. discord (because it is a discord bot)
 3. a discord server to host your bot
-4. uptimerobot (to make the bot run continuously)
+4.  ensure your bot is able to send messages in the discord app setting
+5. uptimerobot (to make the bot run continuously)
 
 what to do
 1. create a discord bot
