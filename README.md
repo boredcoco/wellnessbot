@@ -8,7 +8,7 @@ what you need
 
 what to do
 1. create a discord bot
-2. paste the token at the bottom of the code, where it says 'paste token here'
+2. paste the token at the bottom of the code, where it says 'PASTE TOKEN HERE' (remember to keep the token within the '')
 3. run the code in replit
 4. copy the url generated when running the code
 5. go to uptimerobot and click 'add new monitor'
